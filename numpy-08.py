@@ -106,5 +106,6 @@ print(b)
 print(a+b)
 
 """
-The concept of broadcasting in numpy is to add two non matching shape arrays if they follow some set of rules
+The concept of broadcasting in numpy is to add two non matching shape arrays if they follow some set of rules. It is used in a technique called vectorization.
+Numpy internally avoids loops, and came up with a topic called as vectorization.
 """
